@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D24071A3-0E9A-4480-9F10-22AB25F75843}|MenuFreeCodeCamp.csproj|c:\\users\\ums_qev\\source\\repos\\menufreecodecamp\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24071A3-0E9A-4480-9F10-22AB25F75843}|MenuFreeCodeCamp.csproj|solutionrelative:models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24071A3-0E9A-4480-9F10-22AB25F75843}|MenuFreeCodeCamp.csproj|c:\\users\\ums_qev\\source\\repos\\menufreecodecamp\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24071A3-0E9A-4480-9F10-22AB25F75843}|MenuFreeCodeCamp.csproj|solutionrelative:data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24071A3-0E9A-4480-9F10-22AB25F75843}|MenuFreeCodeCamp.csproj|c:\\users\\ums_qev\\source\\repos\\menufreecodecamp\\menufreecodecamp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D24071A3-0E9A-4480-9F10-22AB25F75843}|MenuFreeCodeCamp.csproj|solutionrelative:menufreecodecamp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24071A3-0E9A-4480-9F10-22AB25F75843}|MenuFreeCodeCamp.csproj|c:\\users\\ums_qev\\source\\repos\\menufreecodecamp\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24071A3-0E9A-4480-9F10-22AB25F75843}|MenuFreeCodeCamp.csproj|solutionrelative:models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24071A3-0E9A-4480-9F10-22AB25F75843}|MenuFreeCodeCamp.csproj|c:\\users\\ums_qev\\source\\repos\\menufreecodecamp\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24071A3-0E9A-4480-9F10-22AB25F75843}|MenuFreeCodeCamp.csproj|solutionrelative:models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\Data\\MenuContext.cs",
+              "RelativeDocumentMoniker": "Data\\MenuContext.cs",
+              "ToolTip": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\Data\\MenuContext.cs",
+              "RelativeToolTip": "Data\\MenuContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:53:08.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuFreeCodeCamp",
+              "DocumentMoniker": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\MenuFreeCodeCamp.csproj",
+              "RelativeDocumentMoniker": "MenuFreeCodeCamp.csproj",
+              "ToolTip": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\MenuFreeCodeCamp.csproj",
+              "RelativeToolTip": "MenuFreeCodeCamp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T06:46:43.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DishIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\Models\\DishIngredient.cs",
+              "RelativeDocumentMoniker": "Models\\DishIngredient.cs",
+              "ToolTip": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\Models\\DishIngredient.cs",
+              "RelativeToolTip": "Models\\DishIngredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:42:46.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\Models\\Ingredient.cs",
+              "RelativeToolTip": "Models\\Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:42:12.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\Models\\Dish.cs",
+              "RelativeToolTip": "Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:40:34.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
