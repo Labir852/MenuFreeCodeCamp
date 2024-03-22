@@ -4106,24 +4106,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ums_qev\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\labir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\MenuFreeCodeCamp.csproj",
+      "projectUniqueName": "E:\\CODES_practice\\CODE BY ASP.NET\\MenuFreeCodeCamp\\MenuFreeCodeCamp.csproj",
       "projectName": "MenuFreeCodeCamp",
-      "projectPath": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\MenuFreeCodeCamp.csproj",
-      "packagesPath": "C:\\Users\\ums_qev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ums_qev\\source\\repos\\MenuFreeCodeCamp\\obj\\",
+      "projectPath": "E:\\CODES_practice\\CODE BY ASP.NET\\MenuFreeCodeCamp\\MenuFreeCodeCamp.csproj",
+      "packagesPath": "C:\\Users\\labir\\.nuget\\packages\\",
+      "outputPath": "E:\\CODES_practice\\CODE BY ASP.NET\\MenuFreeCodeCamp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ums_qev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\labir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4143,11 +4138,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4188,7 +4178,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
