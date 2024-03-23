@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MenuFreeCodeCamp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84e155dd51d2dcf299c659fb387227b21777c8df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9f4cab3ff020fef3b379d4ceae1809aae8cb277")]
 [assembly: System.Reflection.AssemblyProductAttribute("MenuFreeCodeCamp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MenuFreeCodeCamp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
